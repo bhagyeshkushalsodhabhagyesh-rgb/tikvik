@@ -1,0 +1,6 @@
+{
+  "name": "TikVik",
+  "description": "Instagram-like social app with a dedicated space for professional portfolios to showcase creative projects and best work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
